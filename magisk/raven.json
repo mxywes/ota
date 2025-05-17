@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/mxywes/ota/releases/download/2025050700/raven-2025050700-53b7288-magisk-v28.1.zip",
+    "location_csig": "https://github.com/mxywes/ota/releases/download/2025050700/raven-2025050700-53b7288-magisk-v28.1.zip.csig"
+  }
+}
